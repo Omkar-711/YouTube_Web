@@ -2,6 +2,10 @@
 
 A responsive YouTube-inspired web interface built using HTML5 and CSS3. This project recreates the basic layout and user experience of a video streaming platform, including video recommendations, category navigation, Shorts section, search bar, and footer.
 
+🚀 Live Demo
+
+View Live Project :- https://you-tube-web-olive.vercel.app/
+
 ✨ Features
 
 - Responsive Navigation Bar
